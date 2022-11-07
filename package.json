@@ -1,6 +1,6 @@
 {
+  "homepage": "http://eyoo217.github.io/portfolio",
   "name": "react-portfolio-website-1",
-  "homepage": "https://eyoo217.github.io/e-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
