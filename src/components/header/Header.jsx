@@ -5,6 +5,7 @@ import ME from '../../asset/pfp.png'
 import HeaderSocials from './HeaderSocials'
 
 
+
 const Header = () => {
   return (
     <header>
@@ -19,6 +20,13 @@ const Header = () => {
           <img src={ME} alt="me" />
         </div>
 
+        <span class="content">
+          <script src="https://cdn.jsdelivr.net/npm/TagCloud@2.2.0/dist/TagCloud.min.js"></script>
+        </span>
+
+        
+        
+        
         <a href="#contact" className="scroll_down">Scroll Down</a>
       </div>
 

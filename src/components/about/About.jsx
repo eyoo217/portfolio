@@ -39,11 +39,9 @@ const About = () => {
             </article>
           </div>
           <p>
-                Hi! my name is elliott and I am a 17 years old student pursuing 
-                computer science and web development. I am based in Chicago and
-                I love playing video games, coding, and playing volleyball. My
-                goal is to one day become a software engineer and code some  
-                cool stuff
+                hi my name is elliott, i am 17 years old and a senior in highschool currently.
+                i am interested in UX/UI design as well as software engineering and computer
+                science. i plan to attend university in fall of 2023 for computer science.
           </p>
           
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

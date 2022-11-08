@@ -17,7 +17,7 @@ const data = [
     image: IMG2,
     title: 'ASCII Terminal Art',
     github: 'https://github.com/eyoo217/Terminal-ASCII-Art-Header-Tutorial',
-    demo: 'https://github.com/eyoo217/Terminal-ASCII-Art-Header-Tutorial'
+    demo: 'https://github.com/eyoo217/Terminal-ASCII-Art-Header-Tutorial/blob/main/README.md'
   }
 ]
 

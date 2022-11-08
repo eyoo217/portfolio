@@ -53,6 +53,16 @@ header {
 
 }
 
+.tagcloud {
+    font-family: 'Roboto Mono', monospace;  
+    font-size: 20px;
+    font-weight: 650;
+    margin-left: 30%;
+}
+.tagcloud--item:hover {
+    color: var(--color-primary);
+}
+
 /* =======HEADER IMG======*/
 .scroll__down {
     position: absolute;
