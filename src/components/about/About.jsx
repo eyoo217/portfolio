@@ -30,18 +30,19 @@ const About = () => {
             <article className='about__card'>
               <MdOutlineSchool className='about__icon'/>
               <h5>GPA</h5>
-              <small>3.6 GPA, National Honor Society, Honor Roll</small>
+              <small>3.65 GPA, National Honor Society, CyberPatriot</small>
             </article>
             <article className='about__card'>
               <FaSchool className='about__icon'/>
               <h5>Education</h5>
-              <small>Niles North High School  Attending Uni. in Fall of 2023</small>
+              <small>Niles North High School  Attending DePaul University. in Fall of 2023</small>
             </article>
           </div>
           <p>
-                hi my name is elliott, i am 17 years old and a senior in highschool currently.
-                i am interested in UX/UI design as well as software engineering and computer
-                science. i plan to attend university in fall of 2023 for computer science.
+                hi my name is elliott, and I am an incoming freshman at DePaul University studying computer science with a focus
+                in software engineering. I am interested in all things coding, such as cybersecurity, web development, and
+                making apps. I am currently looking for internships related to software engineering and web development.
+                To contact me, use the form to send me an email, or reach out through my social medias linked below.
           </p>
           
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
